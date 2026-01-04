@@ -4,7 +4,7 @@ Soy programador / analista de sistemas. Me enfoco en **backend**, **bases de dat
 
 - 🧠 Me gusta resolver problemas reales con soluciones simples y mantenibles  
 - 🧩 Fan de las integraciones, la data “limpia” y los sistemas que escalan  
-- 🏀 En paralelo, siempre estoy metido en proyectos con estética y espíritu deportivo 😄
+- 🏀 En paralelo, siempre estoy metido en proyectos con espíritu deportivo 😄
 
 ---
 
